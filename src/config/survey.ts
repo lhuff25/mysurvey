@@ -242,11 +242,13 @@ const defaultSurveyJSON ={
        }
 const defaultSurveyCSS = {
     header: 'bg-primary text-white p-3',
-    body: 'bg-light',
-    completedPage: 'p-3'
+    body: 'bg-dark',
+    completedPage: 'p-3',
+    boolean: 'bg-primary text-white'
 };
 
 const defaultSurveyDATA = {
+
 };
 
 const defaultSurveyConfig = {
