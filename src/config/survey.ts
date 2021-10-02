@@ -256,7 +256,7 @@ const defaultSurveyJSON ={
              },
              {
               "value": "item4",
-              "text": "Cancer? "
+              "text": "Cancer"
              }
             ]
            }
