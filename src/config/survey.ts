@@ -121,7 +121,7 @@ const defaultSurveyJSON ={
             "type": "checkbox",
             "name": "question1",
             "title": "What kind of exercise do you partake in? ",
-            "isRequired": true,
+            "isRequired": false,
             "choices": [
              {
               "value": "item1",
@@ -208,7 +208,7 @@ const defaultSurveyJSON ={
             "type": "checkbox",
             "name": "question6",
             "title": "Do any of these daily activities cause you discomfort or difficulty?",
-            "isRequired": true,
+            "isRequired": false,
             "choices": [
              {
               "value": "item1",
@@ -240,7 +240,7 @@ const defaultSurveyJSON ={
             "type": "checkbox",
             "name": "question4",
             "title": "Are you suffering from any of these conditions?",
-            "isRequired": true,
+            "isRequired": false,
             "choices": [
              {
               "value": "item1",
