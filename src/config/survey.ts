@@ -244,7 +244,7 @@ const defaultSurveyCSS = {
     header: 'bg-primary text-white p-3',
     body: 'bg-dark',
     completedPage: 'p-3',
-    boolean: 'bg-primary text-white'
+    boolean: 'bg-white'
 };
 
 const defaultSurveyDATA = {
