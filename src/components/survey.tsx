@@ -16,7 +16,6 @@ const SurveyComponent: React.FunctionComponent<ISurveyProps> = props => {
 
     useEffect(() => {
         Survey.StylesManager.applyTheme("bootstrap");
-        
         setLoading(false);
     }, []);
 
