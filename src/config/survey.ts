@@ -26,35 +26,10 @@ const defaultSurveyJSON ={
             ]
            },
            {
-            "type": "radiogroup",
-            "name": "How old are you?",
-            "isRequired": true,
-            "choices": [
-             {
-              "value": "item1",
-              "text": "Under 14"
-             },
-             {
-              "value": "item2",
-              "text": "14-19"
-             },
-             {
-              "value": "item3",
-              "text": "20-30"
-             },
-             {
-              "value": "item4",
-              "text": "31-40"
-             },
-             {
-              "value": "item5",
-              "text": "41-50"
-             },
-             {
-              "value": "item6",
-              "text": "50+"
-             }
-            ]
+            "type": "text",
+            "name": "question7",
+            "title": "How old are you?",
+            "isRequired": true
            },
            {
             "type": "radiogroup",
